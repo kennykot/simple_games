@@ -1,4 +1,4 @@
-// Copyright 2022 jewfish, johnie, ironrobb
+// Copyright 2022 KennyKot
 #include <stdio.h>
 #include <stdlib.h>  // system()
 #include <unistd.h>  // usleep()

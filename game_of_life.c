@@ -1,4 +1,4 @@
-// Copyright 2022 jewfish, camellia, sandslas
+// Copyright 2022 KennyKot
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>  //  function usleep()
