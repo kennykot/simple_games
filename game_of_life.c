@@ -36,7 +36,7 @@ int main(void) {
     field = setup();
     while (game_over > 0) {
         draw(field);
-        field_new = (field);
+        field_new = ravno(field);
         field = logic(field);
         usleep(speed);
         game_over = check(field);
